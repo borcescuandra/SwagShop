@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "947186681519",
+    "project_id": "shopswag-87715",
+    "storage_bucket": "shopswag-87715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947186681519:android:bc425f71829d589f3b765a",
+        "android_client_info": {
+          "package_name": "com.example.shopswag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947186681519-5fpq3tqo8ctaqre7vqucaaaucj5gdjpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbvhNtVeSPEFjF9OsbNHDPKw3RuWUvYC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947186681519-5fpq3tqo8ctaqre7vqucaaaucj5gdjpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
